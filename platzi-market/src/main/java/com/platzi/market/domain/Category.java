@@ -1,6 +1,6 @@
 package com.platzi.market.domain;
 
-public class CategoryDto {
+public class Category {
 
     private int categoryId;
     private String category;
